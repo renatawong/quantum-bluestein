@@ -1,2 +1,2 @@
 # quantum-bluestein
-Implementation of a QFT for arbitrary size N
+Implementation of QFT for arbitrary size N
