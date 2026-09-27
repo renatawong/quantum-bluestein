@@ -8,6 +8,4 @@ quantum-bluestein-n6: worked example for N=6 in the reference paper
 
 ### Reference paper
 
-A Quantum Bluestein Algorithm for Arbitrary-Size Quantum Fourier Transform
-
-Nan-Hong Kuo and Renata Wong 2026 Phys. Scr. 101 385104, DOI: 10.1088/1402-4896/aea647
+Nan-Hong Kuo and Renata Wong 2026, A Quantum Bluestein Algorithm for Arbitrary-Size Quantum Fourier Transform, Phys. Scr. 101 385104, DOI: 10.1088/1402-4896/aea647
